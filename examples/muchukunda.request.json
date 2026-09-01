@@ -1,0 +1,58 @@
+{
+  "claim_id": "muchukunda-lore-vs-physics",
+  "source_text": "Bhagavata 10.51 Muchukunda stays in Svarga; on return kin and yuga are gone.",
+  "paths": [
+    {
+      "profile": "HERMENEUTIC_DHARMA",
+      "claim_text": "Muchukunda illustrates loka-kala-bheda",
+      "evidence_text": "Bhagavata 10.51 plus Kakudmi/Revati in 9.3",
+      "sentence_class": "SMRITI_ARTHAVADA",
+      "source_floor": "BUDDHI_MAHAT",
+      "target_floor": "BUDDHI_MAHAT",
+      "syllogism": {
+        "pratijna": "The episode teaches realm-relative time",
+        "hetu": "Kin are gone after a Svarga stay",
+        "has_kitchen_example": true,
+        "kitchen_reference": "Bhagavata 9.3",
+        "hetvabhasa": "NONE",
+        "tarka_passed": true
+      },
+      "bayes_parameters": {
+        "prior": 0.7,
+        "p_e_given_h": 0.9,
+        "p_e_given_not_h": 0.2,
+        "upadhi_strength": 0.0,
+        "tarka_force": 0.0
+      },
+      "fallacy_sum": 0.05,
+      "s1": 0.9,
+      "s3": 0.9
+    },
+    {
+      "profile": "EMPIRICAL_PHYSICAL",
+      "claim_text": "Puranic figures were operational super-scientists with GR and fusion tech",
+      "evidence_text": "The same verses used as physics proof",
+      "sentence_class": "SMRITI_ARTHAVADA",
+      "source_floor": "BUDDHI_MAHAT",
+      "target_floor": "MAHABHUTAS",
+      "syllogism": {
+        "pratijna": "Rsis had operational relativistic and fusion technology",
+        "hetu": "Because these verses exist",
+        "has_kitchen_example": false,
+        "hetvabhasa": "SAVYABHICARA",
+        "tarka_passed": false
+      },
+      "bayes_parameters": {
+        "prior": 0.15,
+        "p_e_given_h": 0.8,
+        "p_e_given_not_h": 0.85,
+        "upadhi_strength": 0.0,
+        "tarka_force": 0.0
+      },
+      "fallacy_sum": 0.76,
+      "s1": 0.25,
+      "s2": 0.1424,
+      "s3": 0.25
+    }
+  ]
+}
